@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestGUI", "TestGUI\TestGUI.csproj", "{0494D92B-038A-4118-A4FE-39118B598FE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Base|Any CPU = Base|Any CPU
+		Base|x64 = Base|x64
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0494D92B-038A-4118-A4FE-39118B598FE3}.Base|Any CPU.ActiveCfg = Base|Any CPU
+		{0494D92B-038A-4118-A4FE-39118B598FE3}.Base|Any CPU.Build.0 = Base|Any CPU
+		{0494D92B-038A-4118-A4FE-39118B598FE3}.Base|x64.ActiveCfg = Base|x64
+		{0494D92B-038A-4118-A4FE-39118B598FE3}.Base|x64.Build.0 = Base|x64
+		{0494D92B-038A-4118-A4FE-39118B598FE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0494D92B-038A-4118-A4FE-39118B598FE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0494D92B-038A-4118-A4FE-39118B598FE3}.Debug|x64.ActiveCfg = Debug|x64
+		{0494D92B-038A-4118-A4FE-39118B598FE3}.Debug|x64.Build.0 = Debug|x64
+		{0494D92B-038A-4118-A4FE-39118B598FE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0494D92B-038A-4118-A4FE-39118B598FE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0494D92B-038A-4118-A4FE-39118B598FE3}.Release|x64.ActiveCfg = Release|x64
+		{0494D92B-038A-4118-A4FE-39118B598FE3}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2902A229-6A5E-4ECD-A1A9-E6342F895806}
+	EndGlobalSection
+EndGlobal

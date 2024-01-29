@@ -1,0 +1,75 @@
+C:\Users\User\source\repos\TestGUI\TestGUI\bin\Debug\TestGUI.exe.config
+C:\Users\User\source\repos\TestGUI\TestGUI\bin\Debug\TestGUI.exe
+C:\Users\User\source\repos\TestGUI\TestGUI\bin\Debug\TestGUI.pdb
+C:\Users\User\source\repos\TestGUI\TestGUI\obj\Debug\TestGUI.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\TestGUI\TestGUI\obj\Debug\TestGUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\TestGUI\TestGUI\obj\Debug\TestGUI.Form1.resources
+C:\Users\User\source\repos\TestGUI\TestGUI\obj\Debug\TestGUI.Properties.Resources.resources
+C:\Users\User\source\repos\TestGUI\TestGUI\obj\Debug\TestGUI.csproj.GenerateResource.cache
+C:\Users\User\source\repos\TestGUI\TestGUI\obj\Debug\TestGUI.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TestGUI\TestGUI\obj\Debug\TestGUI.exe
+C:\Users\User\source\repos\TestGUI\TestGUI\obj\Debug\TestGUI.pdb
+C:\Users\User\source\repos\TestGUI\TestGUI\bin\Debug\AForge.dll
+C:\Users\User\source\repos\TestGUI\TestGUI\bin\Debug\AForge.Imaging.dll
+C:\Users\User\source\repos\TestGUI\TestGUI\bin\Debug\AForge.Math.dll
+C:\Users\User\source\repos\TestGUI\TestGUI\bin\Debug\AForge.xml
+C:\Users\User\source\repos\TestGUI\TestGUI\bin\Debug\AForge.Imaging.xml
+C:\Users\User\source\repos\TestGUI\TestGUI\bin\Debug\AForge.Math.xml
+C:\Users\User\source\repos\TestGUI\TestGUI\obj\Debug\TestGUI.csproj.CopyComplete
+D:\МАН, КИТ, ПРОГРАММИРОВАНИЕ\МАН 2023\Решение Запустить файл TestGUI\TestGUI\bin\Debug\TestGUI.exe.config
+D:\МАН, КИТ, ПРОГРАММИРОВАНИЕ\МАН 2023\Решение Запустить файл TestGUI\TestGUI\bin\Debug\TestGUI.exe
+D:\МАН, КИТ, ПРОГРАММИРОВАНИЕ\МАН 2023\Решение Запустить файл TestGUI\TestGUI\bin\Debug\TestGUI.pdb
+D:\МАН, КИТ, ПРОГРАММИРОВАНИЕ\МАН 2023\Решение Запустить файл TestGUI\TestGUI\bin\Debug\AForge.dll
+D:\МАН, КИТ, ПРОГРАММИРОВАНИЕ\МАН 2023\Решение Запустить файл TestGUI\TestGUI\bin\Debug\AForge.Imaging.dll
+D:\МАН, КИТ, ПРОГРАММИРОВАНИЕ\МАН 2023\Решение Запустить файл TestGUI\TestGUI\bin\Debug\AForge.Math.dll
+D:\МАН, КИТ, ПРОГРАММИРОВАНИЕ\МАН 2023\Решение Запустить файл TestGUI\TestGUI\bin\Debug\AForge.xml
+D:\МАН, КИТ, ПРОГРАММИРОВАНИЕ\МАН 2023\Решение Запустить файл TestGUI\TestGUI\bin\Debug\AForge.Imaging.xml
+D:\МАН, КИТ, ПРОГРАММИРОВАНИЕ\МАН 2023\Решение Запустить файл TestGUI\TestGUI\bin\Debug\AForge.Math.xml
+D:\МАН, КИТ, ПРОГРАММИРОВАНИЕ\МАН 2023\Решение Запустить файл TestGUI\TestGUI\obj\Debug\TestGUI.csproj.AssemblyReference.cache
+D:\МАН, КИТ, ПРОГРАММИРОВАНИЕ\МАН 2023\Решение Запустить файл TestGUI\TestGUI\obj\Debug\TestGUI.csproj.SuggestedBindingRedirects.cache
+D:\МАН, КИТ, ПРОГРАММИРОВАНИЕ\МАН 2023\Решение Запустить файл TestGUI\TestGUI\obj\Debug\TestGUI.Form1.resources
+D:\МАН, КИТ, ПРОГРАММИРОВАНИЕ\МАН 2023\Решение Запустить файл TestGUI\TestGUI\obj\Debug\TestGUI.Properties.Resources.resources
+D:\МАН, КИТ, ПРОГРАММИРОВАНИЕ\МАН 2023\Решение Запустить файл TestGUI\TestGUI\obj\Debug\TestGUI.csproj.GenerateResource.cache
+D:\МАН, КИТ, ПРОГРАММИРОВАНИЕ\МАН 2023\Решение Запустить файл TestGUI\TestGUI\obj\Debug\TestGUI.csproj.CoreCompileInputs.cache
+D:\МАН, КИТ, ПРОГРАММИРОВАНИЕ\МАН 2023\Решение Запустить файл TestGUI\TestGUI\obj\Debug\TestGUI.csproj.CopyComplete
+D:\МАН, КИТ, ПРОГРАММИРОВАНИЕ\МАН 2023\Решение Запустить файл TestGUI\TestGUI\obj\Debug\TestGUI.exe
+D:\МАН, КИТ, ПРОГРАММИРОВАНИЕ\МАН 2023\Решение Запустить файл TestGUI\TestGUI\obj\Debug\TestGUI.pdb
+E:\проект\Решение Запустить файл TestGUI\TestGUI\bin\Debug\TestGUI.exe.config
+E:\проект\Решение Запустить файл TestGUI\TestGUI\bin\Debug\TestGUI.exe
+E:\проект\Решение Запустить файл TestGUI\TestGUI\bin\Debug\TestGUI.pdb
+E:\проект\Решение Запустить файл TestGUI\TestGUI\bin\Debug\AForge.dll
+E:\проект\Решение Запустить файл TestGUI\TestGUI\bin\Debug\AForge.Imaging.dll
+E:\проект\Решение Запустить файл TestGUI\TestGUI\bin\Debug\AForge.Math.dll
+E:\проект\Решение Запустить файл TestGUI\TestGUI\bin\Debug\AForge.xml
+E:\проект\Решение Запустить файл TestGUI\TestGUI\bin\Debug\AForge.Imaging.xml
+E:\проект\Решение Запустить файл TestGUI\TestGUI\bin\Debug\AForge.Math.xml
+E:\проект\Решение Запустить файл TestGUI\TestGUI\obj\Debug\TestGUI.csproj.AssemblyReference.cache
+E:\проект\Решение Запустить файл TestGUI\TestGUI\obj\Debug\TestGUI.Properties.Resources.resources
+E:\проект\Решение Запустить файл TestGUI\TestGUI\obj\Debug\TestGUI.csproj.GenerateResource.cache
+E:\проект\Решение Запустить файл TestGUI\TestGUI\obj\Debug\TestGUI.csproj.CoreCompileInputs.cache
+E:\проект\Решение Запустить файл TestGUI\TestGUI\obj\Debug\TestGUI.csproj.CopyComplete
+E:\проект\Решение Запустить файл TestGUI\TestGUI\obj\Debug\TestGUI.exe
+E:\проект\Решение Запустить файл TestGUI\TestGUI\obj\Debug\TestGUI.pdb
+E:\проект\Решение Запустить файл TestGUI\TestGUI\obj\Debug\TestGUI.MainForm.resources
+E:\проект\Решение\TestGUI\obj\Debug\TestGUI.csproj.AssemblyReference.cache
+E:\проект\Решение\TestGUI\obj\Debug\TestGUI.MainForm.resources
+E:\проект\Решение\TestGUI\obj\Debug\TestGUI.Properties.Resources.resources
+E:\проект\Решение\TestGUI\obj\Debug\TestGUI.csproj.GenerateResource.cache
+E:\проект\Решение\TestGUI\obj\Debug\TestGUI.csproj.CoreCompileInputs.cache
+E:\проект\Решение\TestGUI\obj\Debug\TestGUI.exe
+E:\проект\Решение\TestGUI\obj\Debug\TestGUI.pdb
+E:\проект\Решение\TestGUI\bin\Debug\TestGUI.exe.config
+E:\проект\Решение\TestGUI\bin\Debug\TestGUI.exe
+E:\проект\Решение\TestGUI\bin\Debug\TestGUI.pdb
+E:\проект\Решение\TestGUI\bin\Debug\AForge.dll
+E:\проект\Решение\TestGUI\bin\Debug\AForge.Imaging.dll
+E:\проект\Решение\TestGUI\bin\Debug\AForge.Math.dll
+E:\проект\Решение\TestGUI\bin\Debug\AForge.xml
+E:\проект\Решение\TestGUI\bin\Debug\AForge.Imaging.xml
+E:\проект\Решение\TestGUI\bin\Debug\AForge.Math.xml
+E:\проект\Решение\TestGUI\obj\Debug\TestGUI.csproj.CopyComplete
+E:\проект\Решение\TestGUI\bin\Debug\Guna.UI2.dll
+E:\проект\Решение\TestGUI\bin\Debug\TestGUI.exe.manifest
+E:\проект\Решение\TestGUI\bin\Debug\TestGUI.application
+E:\проект\Решение\TestGUI\obj\Debug\TestGUI.exe.manifest
+E:\проект\Решение\TestGUI\obj\Debug\TestGUI.application
