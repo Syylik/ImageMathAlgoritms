@@ -5,6 +5,8 @@ VisualStudioVersion = 17.6.33712.159
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestGUI", "TestGUI\TestGUI.csproj", "{0494D92B-038A-4118-A4FE-39118B598FE3}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MathImageSetup", "MathImageSetup\MathImageSetup.vdproj", "{F6AA7DC6-5A91-45BD-9D14-2E9F7B8B9AA9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Base|Any CPU = Base|Any CPU
@@ -27,6 +29,12 @@ Global
 		{0494D92B-038A-4118-A4FE-39118B598FE3}.Release|Any CPU.Build.0 = Release|Any CPU
 		{0494D92B-038A-4118-A4FE-39118B598FE3}.Release|x64.ActiveCfg = Release|x64
 		{0494D92B-038A-4118-A4FE-39118B598FE3}.Release|x64.Build.0 = Release|x64
+		{F6AA7DC6-5A91-45BD-9D14-2E9F7B8B9AA9}.Base|Any CPU.ActiveCfg = Debug
+		{F6AA7DC6-5A91-45BD-9D14-2E9F7B8B9AA9}.Base|x64.ActiveCfg = Debug
+		{F6AA7DC6-5A91-45BD-9D14-2E9F7B8B9AA9}.Debug|Any CPU.ActiveCfg = Debug
+		{F6AA7DC6-5A91-45BD-9D14-2E9F7B8B9AA9}.Debug|x64.ActiveCfg = Debug
+		{F6AA7DC6-5A91-45BD-9D14-2E9F7B8B9AA9}.Release|Any CPU.ActiveCfg = Release
+		{F6AA7DC6-5A91-45BD-9D14-2E9F7B8B9AA9}.Release|x64.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

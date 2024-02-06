@@ -30,7 +30,6 @@
         {
             this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(MainForm));
-            this.AlgoritmsProgressBar = new System.Windows.Forms.ProgressBar();
             this.TimerLabel = new System.Windows.Forms.Label();
             this.JerkInfoLabel = new System.Windows.Forms.Label();
             this.pixelCountLabel = new System.Windows.Forms.Label();
@@ -52,20 +51,11 @@
             this.GreyBrightButton = new Guna.UI2.WinForms.Guna2Button();
             this.BitButton = new Guna.UI2.WinForms.Guna2Button();
             this.InfoGroupBox1 = new Guna.UI2.WinForms.Guna2GroupBox();
+            this.PleaseWaitLabel = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.ResultPictureBox)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.InputPictureBox)).BeginInit();
             this.InfoGroupBox1.SuspendLayout();
             this.SuspendLayout();
-            // 
-            // AlgoritmsProgressBar
-            // 
-            this.AlgoritmsProgressBar.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.AlgoritmsProgressBar.Location = new System.Drawing.Point(20, 131);
-            this.AlgoritmsProgressBar.MarqueeAnimationSpeed = 85;
-            this.AlgoritmsProgressBar.Name = "AlgoritmsProgressBar";
-            this.AlgoritmsProgressBar.Size = new System.Drawing.Size(256, 23);
-            this.AlgoritmsProgressBar.Style = System.Windows.Forms.ProgressBarStyle.Continuous;
-            this.AlgoritmsProgressBar.TabIndex = 15;
             // 
             // TimerLabel
             // 
@@ -127,6 +117,7 @@
             // 
             // AuthorLinkLabel
             // 
+            this.AuthorLinkLabel.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Right)));
             this.AuthorLinkLabel.AutoSize = true;
             this.AuthorLinkLabel.LinkVisited = true;
             this.AuthorLinkLabel.Location = new System.Drawing.Point(733, 382);
@@ -378,7 +369,7 @@
             this.InfoGroupBox1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.InfoGroupBox1.AutoRoundedCorners = true;
             this.InfoGroupBox1.BorderRadius = 20;
-            this.InfoGroupBox1.Controls.Add(this.AlgoritmsProgressBar);
+            this.InfoGroupBox1.Controls.Add(this.PleaseWaitLabel);
             this.InfoGroupBox1.Controls.Add(this.TimerLabel);
             this.InfoGroupBox1.Controls.Add(this.widthLabel);
             this.InfoGroupBox1.Controls.Add(this.JerkInfoLabel);
@@ -388,11 +379,23 @@
             this.InfoGroupBox1.FillColor = System.Drawing.Color.Transparent;
             this.InfoGroupBox1.Font = new System.Drawing.Font("Segoe UI", 9F);
             this.InfoGroupBox1.ForeColor = System.Drawing.Color.White;
-            this.InfoGroupBox1.Location = new System.Drawing.Point(544, 83);
+            this.InfoGroupBox1.Location = new System.Drawing.Point(540, 54);
             this.InfoGroupBox1.Name = "InfoGroupBox1";
             this.InfoGroupBox1.Size = new System.Drawing.Size(300, 200);
             this.InfoGroupBox1.TabIndex = 24;
             this.InfoGroupBox1.Text = "Информация:";
+            // 
+            // PleaseWaitLabel
+            // 
+            this.PleaseWaitLabel.AutoSize = true;
+            this.PleaseWaitLabel.Enabled = false;
+            this.PleaseWaitLabel.ForeColor = System.Drawing.Color.Orange;
+            this.PleaseWaitLabel.Location = new System.Drawing.Point(21, 138);
+            this.PleaseWaitLabel.Name = "PleaseWaitLabel";
+            this.PleaseWaitLabel.Size = new System.Drawing.Size(217, 15);
+            this.PleaseWaitLabel.TabIndex = 15;
+            this.PleaseWaitLabel.Text = "Программа сейчас выполняет работу";
+            this.PleaseWaitLabel.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             // 
             // MainForm
             // 
@@ -419,6 +422,8 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Margin = new System.Windows.Forms.Padding(2);
             this.MaximizeBox = false;
+            this.MaximumSize = new System.Drawing.Size(854, 412);
+            this.MinimumSize = new System.Drawing.Size(854, 412);
             this.Name = "MainForm";
             this.Text = "МАТЕМАТИЧЕСКИЕ АЛГОРИТМЫ В ОБРАБОТКЕ ИЗОБРАЖЕНИЙ";
             ((System.ComponentModel.ISupportInitialize)(this.ResultPictureBox)).EndInit();
@@ -446,13 +451,13 @@
         private Guna.UI2.WinForms.Guna2Button NegativeClassicButton;
         private Guna.UI2.WinForms.Guna2ImageButton ExitButton;
         private Guna.UI2.WinForms.Guna2ImageButton MinimizeButton;
-        private System.Windows.Forms.ProgressBar AlgoritmsProgressBar;
         private Guna.UI2.WinForms.Guna2Button GreyBrightButton;
         private Guna.UI2.WinForms.Guna2Button GreyLitButton;
         private Guna.UI2.WinForms.Guna2Button GreyAverageButton;
         private Guna.UI2.WinForms.Guna2Button NegativeSwapButton;
         private Guna.UI2.WinForms.Guna2Button BitButton;
         private Guna.UI2.WinForms.Guna2GroupBox InfoGroupBox1;
+        private System.Windows.Forms.Label PleaseWaitLabel;
     }
 }
 
